@@ -22,10 +22,10 @@ Hello! I’m Ifeakachukwu, a data scientist passionate about harnessing the powe
 Welcome to my portfolio, where you’ll find a collection of my projects, accomplishments, and my dedication to the world of data science!
 
 ### 📫 Connect with Me:
-- [🌍 LinkedIn](https://www.linkedin.com/in/ifeakachukwu-otuya/)
-- [📧Email Me](mailto:ifedakachuotuya@gmail.com)
+- 🌍[LinkedIn](https://www.linkedin.com/in/ifeakachukwu-otuya/)
+- 📧[Email Me](mailto:ifedakachuotuya@gmail.com)
 
-- [💼Portfolio](your-portfolio-url) 👇
+### 💼Portfolio 👇
   
  
  
