@@ -23,8 +23,8 @@ Welcome to my portfolio, where you’ll find a collection of my projects, accomp
 
 ## 📫 Connect with Me:
 - [💼 LinkedIn](https://www.linkedin.com/in/ifeakachukwu-otuya/)
-- 🌍 [Portfolio](your-portfolio-url) 
-- 📧 [Email Me](mailto:ifedakachuotuya@gmail.com)  
+- [🌍Portfolio](your-portfolio-url) 
+- [📧Email Me](mailto:ifedakachuotuya@gmail.com)  
   
  
  
