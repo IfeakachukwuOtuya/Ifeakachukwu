@@ -21,8 +21,8 @@ Hello! I’m Ifeakachukwu, a data scientist passionate about harnessing the powe
 - 🛠 **Problem-Solving**: I craft solutions that drive impact.
 
 Welcome to my portfolio, where you’ll find a collection of my projects, accomplishments, and my dedication to the world of data science! 
----
 
+---
 
 ### 📫 Connect with Me:
 - 🌍[LinkedIn](https://www.linkedin.com/in/ifeakachukwu-otuya/)
